@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/petshop-agendamento/static/css/main.7b130c22.chunk.css",
+    "main.js": "/petshop-agendamento/static/js/main.7ef69151.chunk.js",
+    "main.js.map": "/petshop-agendamento/static/js/main.7ef69151.chunk.js.map",
+    "runtime-main.js": "/petshop-agendamento/static/js/runtime-main.99a18f95.js",
+    "runtime-main.js.map": "/petshop-agendamento/static/js/runtime-main.99a18f95.js.map",
+    "static/js/2.27018b21.chunk.js": "/petshop-agendamento/static/js/2.27018b21.chunk.js",
+    "static/js/2.27018b21.chunk.js.map": "/petshop-agendamento/static/js/2.27018b21.chunk.js.map",
+    "index.html": "/petshop-agendamento/index.html",
+    "static/css/main.7b130c22.chunk.css.map": "/petshop-agendamento/static/css/main.7b130c22.chunk.css.map",
+    "static/js/2.27018b21.chunk.js.LICENSE.txt": "/petshop-agendamento/static/js/2.27018b21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a18f95.js",
+    "static/js/2.27018b21.chunk.js",
+    "static/css/main.7b130c22.chunk.css",
+    "static/js/main.7ef69151.chunk.js"
+  ]
+}
