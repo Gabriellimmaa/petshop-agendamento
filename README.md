@@ -4,7 +4,7 @@
   <img src="public/assets/preview.png">
 </h1>
 
-<h4 align="center"><a href="">Clique para visitar o site</a></h4>
+<h4 align="center"><a href="https://gabriellimmaa.github.io/petshop-agendamento/">Clique para visitar o site</a></h4>
 
 ---
 
